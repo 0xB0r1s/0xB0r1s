@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://icons8.com.br/
+https://leviarista.github.io/github-profile-header-generator/
 -->
 
 <p dir="auto" align="center">
@@ -23,3 +26,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="" height="40" width="40" /></a>
 </p>
+
+
