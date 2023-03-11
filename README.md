@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
