@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0xB0r1s/0xB0r1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
+
+![Header](./github-header-image.png)
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
