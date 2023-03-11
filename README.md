@@ -24,17 +24,18 @@ Here are some ideas to get you started:
 </p>
 
 <div align="left">
-  <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet"/>
+  <h4>Glad to see you here!: <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet"/></h4>
 </div>
 
 
-<h3 align="left">Technology Stack:</h3>
-
-<p></p>
+<h3 align="center">Technology Stack:</h3>
 
 ---
 
-<h3 align="left">My github status:</h3>
+<h3 align="center">My github status:</h3>
+
+---
+
 <div align="center">
 <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=0xb0r1s&theme=radical&hide_border=false&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png"/>
 <p>
