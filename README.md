@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="your link" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="" height="40" width="40" /></a>
 </p>
