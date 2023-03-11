@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 <p></p>
 
-<div align="center">
+<div align="left">
   <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet"/>
 </div>
 
