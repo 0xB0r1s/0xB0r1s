@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet)
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
