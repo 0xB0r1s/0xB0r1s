@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./header-image.png)
+<p dir="auto" align="center">
+<a href="https://0xb0r1s.github.io" rel="nofollow">
+  <img alt="Hello! I'm B0r1s. Cyber Security Analyst!" src="./header-image.png" style="max-width: 100%;" width="90%">
+</a>
+</p>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
