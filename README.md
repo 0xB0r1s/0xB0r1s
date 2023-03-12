@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/c-programming.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/bash.png" alt="" height="40" width="40" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/48/null/python--v1.png" alt="" height="40" width="40" /></a>
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/java-coffee-cup-logo--v1.png" alt="" height="45" width="45" /></a>
     <a href="https://www.perl.org/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/perl.png" alt="" height="40" width="40" /></a>
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/visual-studio-code-2019.png" alt="" height="40" width="40" /></a>
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/android-studio--v3.png" alt="" height="40" width="40" /></a>
     <a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://www.postgresql.org/media/img/redhat.svg" alt="" height="40" width="40" /></a>
+    <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="" height="50" width="50" /></a>
     <a href="https://www.offsec.com/courses/pen-200/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="" height="40" width="40" /></a>
 </p>
 
