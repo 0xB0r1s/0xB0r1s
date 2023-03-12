@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 ---
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/fluency/240/null/c-programming.png" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/48/null/python--v1.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/nolan/512/facebook-new.png" alt="" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/nolan/512/instagram-new.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/480/null/html-5--v1.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/php-logo.png" alt="" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/96/000000/red-hat.png" alt="" height="40" width="40" /></a>
 </p>
 
 
