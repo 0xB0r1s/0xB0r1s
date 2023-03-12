@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">My github status:</h3>
+<h3 align="left">My github status:</h3>
 
 ---
 
