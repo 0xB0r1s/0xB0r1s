@@ -31,14 +31,20 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/fluency/240/null/c-programming.png" alt="" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/48/null/python--v1.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/480/null/java-coffee-cup-logo--v1.png" alt="" height="45" width="45" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/480/null/html-5--v1.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/php-logo.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/delphi-ide.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/96/000000/red-hat.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/c-programming.png" alt="" height="40" width="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/48/null/python--v1.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/java-coffee-cup-logo--v1.png" alt="" height="45" width="45" /></a>
+    <a href="https://www.perl.org/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/perl.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/oracle-logo.png" alt="" height="50" width="47" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/mysql-logo.png" alt="" height="47" width="47" /></a>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/color/480/null/html-5--v1.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/officel/480/null/php-logo.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/officel/480/null/delphi-ide.png" alt="" height="40" width="40" /></a>
+    <a href="https://visualstudio.microsoft.com/pt-br/vs/community/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/visual-studio.png" alt="" height="40" width="40" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/visual-studio-code-2019.png" alt="" height="40" width="40" /></a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/fluency/240/null/android-studio--v3.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://www.postgresql.org/media/img/redhat.svg" alt="" height="40" width="40" /></a>
+    <a href="https://www.offsec.com/courses/pen-200/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="" height="40" width="40" /></a>
 </p>
 
 
