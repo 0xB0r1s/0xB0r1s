@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/fluency/240/null/c-programming.png" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/48/null/python--v1.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/480/null/java-coffee-cup-logo--v1.png" alt="" height="45" width="45" /></a>
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/480/null/html-5--v1.png" alt="" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/php-logo.png" alt="" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/delphi-ide.png" alt="" height="40" width="40" /></a>
