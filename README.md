@@ -30,54 +30,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h1>Welcome</h1>
-
-<style>
-h1 {
-    background-image: url(./image.gif);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-</style>
-
-
-<style>
-div.item {
-    position: relative;
-    width: 200px;
-    min-height: 400px;
-}
-
-div.item div.inner {
-    border: 1px transparent solid;
-    width: 100%;
-    height: 400px;
-    top: 0;
-    left: 0;
-}
-
-div.item div.inner:hover {
-    border-color: #a5a5a5;
-    box-shadow: 8px 7px 0 -3px rgba(55,55,55,0.2);
-    position: absolute;
-    z-index: 20;
-    width: 110%; /*ajusta a largura do zoom*/
-}
-
-div.item div.inner img {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-}
-</style>
-
-<div class="item">
-    <div class="inner">
-        <img src="http://i.stack.imgur.com/JW1Bu.jpg">
-    </div>
-</div>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/fluency/240/null/c-programming.png" alt="" height="40" width="40" /></a>
