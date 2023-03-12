@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="" height="40" width="40" /></a>
 </p>
 
-<div align="left">
-  <h4>Glad to see you here!: <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet"/></h4>
-</div>
-
-
 <h3 align="center">Technology Stack:</h3>
 
 ---
@@ -51,10 +46,9 @@ Here are some ideas to get you started:
 
 ---
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <h4>Glad to see you here!:</h4> <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet" />
 </div>
-
 
 
 
