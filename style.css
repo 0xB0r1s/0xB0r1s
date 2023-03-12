@@ -1,4 +1,27 @@
-imager:hover{
-   height: 50%;
-   width: 50%;
-  }
+div.item {
+    position: relative;
+    width: 200px;
+    min-height: 400px;
+}
+
+div.item div.inner {
+    border: 1px transparent solid;
+    width: 100%;
+    height: 400px;
+    top: 0;
+    left: 0;
+}
+
+div.item div.inner:hover {
+    border-color: #a5a5a5;
+    box-shadow: 8px 7px 0 -3px rgba(55,55,55,0.2);
+    position: absolute;
+    z-index: 20;
+    width: 110%; /*ajusta a largura do zoom*/
+}
+
+div.item div.inner img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
