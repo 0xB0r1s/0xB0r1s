@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <p></p>
 
 <p align="center">
-    <a href="mailto:gustavomf25@gmail.com/" target="blank"><img align="center" img src="https://img.icons8.com/nolan/512/gmail.png" alt="" height="47" width="47" /></a>
-<a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="" height="40" width="40" /></a>
-    <a href="https://www.facebook.com/gustavomf25" target="blank"><img align="center" img src="https://img.icons8.com/nolan/512/facebook-new.png" alt="" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/eugmonteiro/" target="blank"><img align="center" img src="https://img.icons8.com/nolan/512/instagram-new.png" alt="" height="40" width="40" /></a>
+    <a href="mailto:gustavomf25@gmail.com/" target="_blank"><img align="center" img src="https://img.icons8.com/nolan/512/gmail.png" alt="" height="47" width="47" /></a>
+<a href="https://www.linkedin.com/in/gustavomf25/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.facebook.com/gustavomf25" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/nolan/512/facebook-new.png" alt="" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/eugmonteiro/" target="_blank" rel="noopener noreferrer"><img align="center" img src="https://img.icons8.com/nolan/512/instagram-new.png" alt="" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Technology Stack:</h3>
