@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/48/null/python--v1.png" alt="" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/480/null/html-5--v1.png" alt="" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/php-logo.png" alt="" height="40" width="40" /></a>
-      <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/delphi-ide.png"/> alt="" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/96/000000/red-hat.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/officel/480/null/delphi-ide.png" alt="" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://img.icons8.com/color/96/000000/red-hat.png" alt="" height="40" width="40" /></a>
     <a href="https://www.linkedin.com/in/gustavomf25/" target="blank"><img align="center" img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="" height="40" width="40" /></a>
 </p>
 
