@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">My github status:</h3>
 
-<hr>
+<hr style="margin: 40 px 0;">
 
 <div align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com">
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <p></p>
 
----
+<hr style="margin: 40 px 0;">
 
 <div align="center">
   <h4>Glad to see you here!:</h4> <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet" />
