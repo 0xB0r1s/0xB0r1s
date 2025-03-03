@@ -77,3 +77,6 @@ Here are some ideas to get you started:
 <div align="center">
   <h4>Glad to see you here!:</h4> <img class="img" src="https://komarev.com/ghpvc/?username=0xb0r1s&color=blueviolet" />
 </div>
+
+<img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+
