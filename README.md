@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://0xb0r1s.github.io" target="blank"><img align="center" src="./header-image.png" alt=""/></a>
 </div>
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">Contact Me:</h2>
 
 ###
 
@@ -55,17 +55,17 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">My github status:</h2>
+<h2 align="left">My github status:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=0xb0r1s&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-</a>
+</a><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xb0r1s&show_icons=true&theme=radical" />
-</a>
+</a><br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0r1s&theme=radical&layout=compact" />
 </a>
