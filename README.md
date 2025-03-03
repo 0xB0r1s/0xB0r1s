@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">My github status:</h3>
 
----
+<hr>
 
 <div align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com">
