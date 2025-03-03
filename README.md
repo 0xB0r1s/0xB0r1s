@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=0xb0r1s&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=0xb0r1s&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </a>
+<p>
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xb0r1s&show_icons=true&theme=radical" />
