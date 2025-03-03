@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xb0r1s&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=0xb0r1s&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/></a>
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
